@@ -1,0 +1,2 @@
+class PokeApiException(Exception):
+    pass
